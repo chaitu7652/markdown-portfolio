@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Fruits
+   - Apple
+   - Mango
+2. Flowers
+   - Sunflower
+   - Rose
